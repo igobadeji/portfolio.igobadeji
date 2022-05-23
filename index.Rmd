@@ -2,6 +2,9 @@
 title: "Ibukun's Corner"
 description: |
   Hey there! Welcome to my corner where I show some of my projects and interests.
+  
+  This website is a personal & favourite project of mine, as I get to show you what projects I've been working on. My LinkedIn is at the top right corner of this page, if you need to reach out. Again, Welcome!
+  
 site: distill::distill_website
 ---
 
@@ -13,8 +16,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](ig.jpg){width=200}
 
-
-## About Me:
-
-## I am a recent graduate in the important stage of practical learning, with a background in quant finance, risk management, and data analytics. This website is a personal favourite of mine, as I get to show you what I've been working on. 
 
