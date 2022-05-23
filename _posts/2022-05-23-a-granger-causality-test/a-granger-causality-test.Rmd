@@ -1,0 +1,20 @@
+---
+title: "A Granger Causality Test examining the relationship between macroeconomics and stock performance"
+description: |
+  Macroeconomic variables, Stock market performance, and R Programming Language.
+author:
+  - name: Ibukun Obadeji
+date: May 2022
+preview: granger.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Based on the market reaction to the fallout of the Ukraine-Russia war where countries had to battle with incerasing oil prices, exchange rates, and overall, inflation, my interests led me to examine what causal relatinship may exist between macroeconomic variables and the performance of the financial markets. Methodology was done with R and data obtained from four countries, with equal representation (two countries each) from both developed and emerging markets.
