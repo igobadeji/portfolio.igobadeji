@@ -3,17 +3,17 @@
     {
       "path": "index.html",
       "title": "Ibukun's Corner",
-      "description": "Hey there! Welcome to my corner where I show some of my projects and interests.\n\nThis website is a personal & favourite project of mine, as I get to show you what projects I've been working on. My LinkedIn is at the far right corner of this page, if you need to reach out. Again, Welcome!\n",
+      "description": "Hey there! Welcome to my corner where I show some of my projects and interests.\n\nThis website is a personal & favourite project of mine, as I get to show you what projects I've been working on. My LinkedIn is at the top right corner of this page, if you need to reach out. Again, Welcome!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-05-23T18:29:33+01:00"
+      "last_modified": "2022-05-24T00:53:43+01:00"
     },
     {
       "path": "portfolio.html",
       "title": "Portfolio",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-05-23T18:29:33+01:00"
+      "last_modified": "2022-05-24T00:53:44+01:00"
     }
   ],
   "collections": ["posts/posts.json"]
