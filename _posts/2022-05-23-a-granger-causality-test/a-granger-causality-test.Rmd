@@ -18,3 +18,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 Based on the market reaction to the fallout of the Ukraine-Russia war where countries had to battle with increasing oil prices, exchange rates, and overall, inflation, my interests led me to examine what causal relationship may exist between macroeconomic variables and the performance of the financial markets. Methodology was done with R and data obtained from four countries, with equal representation (two countries each) from both developed and emerging markets.
+
+
+Developed Countries were United Kingdom and the Japan, while emerging markets were Russia and India. 
