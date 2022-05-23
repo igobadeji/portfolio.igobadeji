@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/2022-05-23-a-granger-causality-test/",
+    "title": "A Granger Causality Test examining the relationship between macroeconomics and stock performance",
+    "description": "Macroeconomic variables and stock market performance.",
+    "author": [
+      {
+        "name": "Ibukun Obadeji",
+        "url": {}
+      }
+    ],
+    "date": "2022-05-20",
+    "categories": [],
+    "contents": "\r\nBased on the market reaction to the fallout of the Ukraine-Russia war\r\nwhere countries had to battle with incerasing oil prices, exchange\r\nrates, and overall, inflation, my interests led me to examine what\r\ncausal relatinship may exist between macroeconomic variables and the\r\nperformance of the financial markets. Methodology was done with R and\r\ndata obtained from four countries, with equal representation (two\r\ncountries each) from both developed and emerging markets.\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-05-23-a-granger-causality-test/granger.jpg",
+    "last_modified": "2022-05-23T13:04:01+01:00",
+    "input_file": {}
+  }
+]

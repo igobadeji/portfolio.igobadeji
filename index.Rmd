@@ -1,0 +1,20 @@
+---
+title: "Ibukun's Corner"
+description: |
+  Hey there! Welcome to my corner where I show some of my projects and interests.
+site: distill::distill_website
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+```
+
+
+![](ig.jpg){width=200}
+
+
+## About Me:
+
+## I am a recent graduate in the important stage of practical learning, with a background in quant finance, risk management, and data analytics. This website is a personal favourite of mine, as I get to show you what I've been working on. 
+

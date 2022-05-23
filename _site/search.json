@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Ibukun's Corner",
+      "description": "Hey there! Welcome to my corner where I show some of my projects and interests.\n",
+      "author": [],
+      "contents": "\r\n\r\nAbout Me:\r\nI\r\nam a recent graduate in the important stage of practical learning, with\r\na background in quant finance, risk management, and data analytics. This\r\nwebsite is a personal favourite of mine, as I get to show you what I’ve\r\nbeen working on.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-05-23T13:22:02+01:00"
+    },
+    {
+      "path": "portfolio.html",
+      "title": "Portfolio",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-05-23T13:22:03+01:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
