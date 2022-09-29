@@ -3,7 +3,7 @@ title: "Ibukun's Corner"
 description: |
   Hey there! Welcome to my corner where I show some of my projects and interests.
   
-  This website was built by me using the R programming language, and is a favourite project of mine as I get to show you what projects I've been working on. My LinkedIn is at the top right corner of this page, if you need to reach out. Again, Welcome!
+  This website was built by me using the R programming language, and is a favourite project of mine as I get to show you what projects I've been working on. My LinkedIn is at the top right corner of this page if you need to reach out. Again, Welcome!
   
 site: distill::distill_website
 ---
