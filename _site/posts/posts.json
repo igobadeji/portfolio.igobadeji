@@ -46,8 +46,8 @@
     "date": "2022-09-29",
     "categories": [],
     "contents": "\r\nAs part of showing some of my works on PowerBI, this dashboard I am\r\nsharing below reports a profit and loss to measure financial performance\r\nof a client’s employees. To protect the confidentiality of these\r\nemployees and respect my NDA agreement signed with the client, I have\r\nsimulated a seperate dataset and built this dashboard based on that.\r\nThis dashboard was fully completed on PowerBI with the same\r\ncontractual requirements the client asked of me. It is also important to\r\nmention that a second dashboard reports these employees performance by\r\ncertain KPIs.\r\n\r\nThe full PowerBI file is in my Github Page.\r\n\r\n\r\n\r\n",
-    "preview": "posts/2022-09-29-powerbidashboard/dashboardpowerbi.png",
-    "last_modified": "2022-09-29T08:03:46+01:00",
+    "preview": "posts/2022-09-29-powerbidashboard/powerbi.png",
+    "last_modified": "2022-09-29T08:08:21+01:00",
     "input_file": {}
   }
 ]
