@@ -1,19 +1,19 @@
 [
   {
     "path": "posts/2022-05-23-a-granger-causality-test/",
-    "title": "A Granger Causality Test examining the relationship between macroeconomics and stock performance",
-    "description": "Macroeconomic variables, Stock market performance, and R Programming Language.",
+    "title": "A Granger Causality Model examining the relationship between Gilt 10-year Bond Yields and GBP-USD Exchange Prices",
+    "description": "Gilts, MiniBudget, and R Programming Language.",
     "author": [
       {
         "name": "Ibukun Obadeji",
         "url": {}
       }
     ],
-    "date": "2022-05-20",
+    "date": "2022-09-29",
     "categories": [],
-    "contents": "\r\nBased on the market reaction to the fallout of the Ukraine-Russia war\r\nwhere countries had to battle with increasing oil prices, exchange\r\nrates, and overall, inflation, my interests led me to examine what\r\ncausal relationship may exist between macroeconomic variables and the\r\nperformance of the financial markets. Methodology was done with R and\r\ndata obtained from four countries, with equal representation (two\r\ncountries each) from both developed and emerging markets.\r\nDeveloped Countries were United Kingdom and the Japan, while emerging\r\nmarkets were Russia and India.\r\n\r\n\r\n\r\n",
+    "contents": "\r\nThis project was motivated based on the recent market reaction to the\r\nMini-Budget announcement by Kwasi Kwarteng, the Chancellor of the UK\r\nExchequer. This market reaction saw both the gilts markets and the\r\nGBP-USD fx market having a sharp volatility with the latter witnessing a\r\nrecord low of the British pound against the dollar.\r\nWhile I also believe the tax cuts to have been an ill-timed project,\r\nI was more interested in how sharp these markets reacted to that\r\nannouncement, and went ahead to conduct a granger causality test testing\r\nthe relationship between these two markets that stood out.\r\nThe image below shows the first model explaining the gilt 10 year\r\nbonds on the Gbp-Usd exchange price, indicating that at the 5% level of\r\nsignificance, we reject the null hypothesis of no relationship.\r\n The image below also shows\r\nthe second model explaining the gbp-usd exchange prices on the gilt\r\n10year bonds, indicating also that at the 5% level of significance, we\r\nreject the null hypothesis of no relationship.\r\n\r\nOverall, I conclude on a bidirectional causality relationship between\r\nthe two markets which present a potential forecasting feature. The full\r\ncodes and discussion are attached in my GitHub File which is accessible\r\nabove.\r\n\r\n\r\n\r\n",
     "preview": "posts/2022-05-23-a-granger-causality-test/granger.jpg",
-    "last_modified": "2022-05-23T18:10:38+01:00",
+    "last_modified": "2022-09-29T07:01:18+01:00",
     "input_file": {}
   }
 ]

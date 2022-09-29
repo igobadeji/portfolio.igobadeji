@@ -4,7 +4,7 @@ description: |
   Gilts, MiniBudget, and R Programming Language.
 author:
   - name: Ibukun Obadeji
-date: September 2022
+date: September 29 2022
 preview: granger.jpg
 output:
   distill::distill_article:
