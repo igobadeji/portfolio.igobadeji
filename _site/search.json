@@ -6,14 +6,14 @@
       "description": "Hey there! Welcome to my corner where I show some of my projects and interests.\n\nThis website was built by me using the R programming language, and is a favourite project of mine as I get to show you what projects I've been working on. My LinkedIn is at the top right corner of this page if you need to reach out. Again, Welcome!\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-09-29T08:22:04+01:00"
+      "last_modified": "2022-09-29T08:31:56+01:00"
     },
     {
       "path": "portfolio.html",
       "title": "Portfolio",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-09-29T08:22:05+01:00"
+      "last_modified": "2022-09-29T08:31:56+01:00"
     }
   ],
   "collections": ["posts/posts.json"]

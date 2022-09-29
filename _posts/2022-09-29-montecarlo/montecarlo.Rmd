@@ -1,0 +1,21 @@
+---
+title: "A Monte-Carlo Simulation for Risk Estimation"
+description: |
+  Monte-Carlo Simulation in Python.
+author:
+  - name: Ibukun Obadeji
+date: September 30 2022
+preview: montecarlo.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Completed using the Python Programming Language, this monte-carlo simulation helps to ....
+
+
