@@ -14,6 +14,23 @@
     "contents": "\r\nThis project was motivated based on the recent market reaction to the\r\nMini-Budget announcement by Kwasi Kwarteng, the Chancellor of the UK\r\nExchequer. This market reaction saw both the gilts markets and the\r\nGBP-USD fx market having a sharp volatility with the latter witnessing a\r\nrecord low of the British pound against the dollar.\r\nWhile I also believe the tax cuts to have been an ill-timed project,\r\nI was more interested in how sharp these markets reacted to that\r\nannouncement, and went ahead to conduct a granger causality test testing\r\nthe relationship between these two markets that stood out.\r\nThe image below shows the first model explaining the gilt 10 year\r\nbonds on the Gbp-Usd exchange price, indicating that at the 5% level of\r\nsignificance, we reject the null hypothesis of no relationship.\r\n The image below also shows\r\nthe second model explaining the gbp-usd exchange prices on the gilt\r\n10year bonds, indicating also that at the 5% level of significance, we\r\nreject the null hypothesis of no relationship.\r\n\r\nOverall, I conclude on a bidirectional causality relationship between\r\nthe two markets which present a potential forecasting feature. The full\r\ncodes and discussion are attached in my GitHub File which is accessible\r\nabove.\r\n\r\n\r\n\r\n",
     "preview": "posts/2022-05-23-a-granger-causality-test/granger.jpg",
     "last_modified": "2022-09-29T07:16:31+01:00",
-    "input_file": "a-granger-causality-test.knit.md"
+    "input_file": {}
+  },
+  {
+    "path": "posts/2022-09-29-exceldashboard/",
+    "title": "An Interactive & Real-time Dashboard Reporting Total Sales Across Different Periods and Regions",
+    "description": "An Interactive Excel Dashboard.",
+    "author": [
+      {
+        "name": "Ibukun Obadeji",
+        "url": {}
+      }
+    ],
+    "date": "2022-09-29",
+    "categories": [],
+    "contents": "\r\nAs part of displaying some of my best works as a data analyst, this\r\nexcel dashboard stands out because of its interactive and real-time\r\nupdates. It is important to state that I have taken the liberty of\r\ndownloading a different dataset and recreated this dashboard I made for\r\na previous client. In addition to this project, I worked on an\r\nInvestment Portfolio Tracker & Dashboard for this same client.\r\nIn creating this dashboard, I employed the use of pivot tables and\r\ncharts, with the slicer feature to filter the report by year and\r\nregions. The dashboard reports sales as a trend, in addition to the\r\nother Key Performance Indicators. This dashboard report was useful in a\r\nfurther What-If analysis done with the dataset.\r\n\r\nAs a result of the Non-disclosure Agreement signed with all of my\r\nclients, it is impossible to share the original file but this dashboard\r\nshared above is a fair replica of my work for this client. I have\r\nattached the complete Excel file to my Github, accessible in the\r\nhomepage of this website.\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-09-29-exceldashboard/exceldashboard.png",
+    "last_modified": "2022-09-29T07:38:03+01:00",
+    "input_file": {}
   }
 ]
