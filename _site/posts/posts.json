@@ -49,5 +49,22 @@
     "preview": "posts/2022-09-29-powerbidashboard/powerbi.png",
     "last_modified": "2022-09-29T08:08:21+01:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2022-09-29-dccgarch/",
+    "title": "A DCC-GARCH Model Examining a Relationship of Volatility Spillovers Between Cryptocurrencies and Stock Markets",
+    "description": "DCC-GARCH Model.",
+    "author": [
+      {
+        "name": "Ibukun Obadeji",
+        "url": {}
+      }
+    ],
+    "date": "2022-08-30",
+    "categories": [],
+    "contents": "\r\nAs at writing this post, this project has been my most challenging\r\nyet interesting work. As part of my MSc degree requirements, it is\r\nexpected that a dissertation is submitted and to do this, I chose to\r\nstudy a relationship of volatility spillovers between cryptocurrencies\r\nand stock indices, and use the DCC-GARCH Model for my methodology. The\r\nresults from the dissertation were mind-blowing and presented\r\nsignificant findings for investment decisions.\r\nAs at creating this post, I have not seen my results so I am limited\r\nin the amount of findings I can discuss. I also want to protect the\r\nintegrity of my submission till my results are out, but once my results\r\nare out, I would be sharing both the codes I wrote in R and my\r\ndissertation report on my Github page.\r\n\r\n\r\n\r\n",
+    "preview": "posts/2022-09-29-dccgarch/dccgarch.png",
+    "last_modified": "2022-09-29T08:21:13+01:00",
+    "input_file": {}
   }
 ]

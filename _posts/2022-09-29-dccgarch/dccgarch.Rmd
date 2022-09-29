@@ -1,0 +1,22 @@
+---
+title: "A DCC-GARCH Model Examining a Relationship of Volatility Spillovers Between Cryptocurrencies and Stock Markets"
+description: |
+  DCC-GARCH Model.
+author:
+  - name: Ibukun Obadeji
+date: August 30 2022
+preview: dccgarch.png
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+As at writing this post, this project has been my most challenging yet interesting work. As part of my MSc degree requirements, it is expected that a dissertation is submitted and to do this, I chose to study a relationship of volatility spillovers between cryptocurrencies and stock indices, and use the DCC-GARCH Model for my methodology. The results from the dissertation were mind-blowing and presented significant findings for investment decisions.
+
+As at creating this post, I have not seen my results so I am limited in the amount of findings I can discuss. I also want to protect the integrity of my submission till my results are out, but once my results are out, I would be sharing both the codes I wrote in R and my dissertation report on my Github page.
+
